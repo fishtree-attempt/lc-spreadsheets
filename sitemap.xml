@@ -31,7 +31,13 @@
     <loc>https://preview.carpentries.org/lc-spreadsheets/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/lc-spreadsheets/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/lc-spreadsheets/discuss.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/lc-spreadsheets/images.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/lc-spreadsheets/index.html</loc>
@@ -67,16 +73,34 @@
     <loc>https://preview.carpentries.org/lc-spreadsheets/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/lc-spreadsheets/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/lc-spreadsheets/instructor/discuss.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/lc-spreadsheets/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/lc-spreadsheets/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/lc-spreadsheets/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/lc-spreadsheets/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/lc-spreadsheets/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/lc-spreadsheets/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/lc-spreadsheets/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/lc-spreadsheets/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/lc-spreadsheets/profiles.html</loc>
